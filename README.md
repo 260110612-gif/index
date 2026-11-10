@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
 <meta charset="UTF-8">
@@ -8,7 +8,7 @@
 
 <style>
 
-/* CONFIGURACIÓN GENERAL */
+
 
 * {
     margin: 0;
@@ -535,11 +535,7 @@ footer {
 
 </div>
 
-<footer>
-    Página personal de Emma | Ingeniería en TICs
-    <br>
-    © 2026 · Mi historia, mi esencia y mis sueños.
-</footer>
+
 
 </div>
 
